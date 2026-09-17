@@ -6,12 +6,6 @@ Analysis of bank transaction fraud using data sampling and Looker Studio.
 
 [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/bae8e8eb-7722-485c-a263-96116fc1e99e)
 
-## Dashboard Preview
-
-![Bank Transaction Fraud Dashboard](images/dashboard_overview.png)
-
-A PDF version of the dashboard is also available in the `dashboard/` folder.
-
 ## Project Overview
 
 This project analyzes bank transaction data to identify fraud patterns and provide insights into transaction risk.
