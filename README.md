@@ -15,8 +15,8 @@ The analysis uses a stratified sample of 250,000 transactions prepared from the 
 ## Dataset
 
 The original dataset was obtained from Kaggle.
-
 The data was prepared and sampled before being connected to Looker Studio for dashboard development.
+(https://drive.google.com/file/d/1yMrRtsMrpWkUjIlGINsGQ3wA2ee-y1Ku/view?usp=drive_link) 
 
 The final analysis dataset contains:
 
